@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\portfolio\\reference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\portfolio\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\controllers\\referencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\controllers\\referencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|d:\\university\\semester 9\\.net\\mid\\lab\\lab 1\\lab 1\\lab 1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5B046B49-AD20-4233-852C-303C0D2DF649}|Lab 1\\Lab 1.csproj|solutionrelative:lab 1\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Education.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Portfolio\\Education.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Education.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Portfolio\\Education.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:53:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "Lab 1\\Controllers\\EducationController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "Lab 1\\Controllers\\EducationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:51:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:45:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab 1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:37:09.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reference.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Reference.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Portfolio\\Reference.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Reference.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Portfolio\\Reference.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:55:57.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "Lab 1\\Controllers\\PortfolioController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "Lab 1\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:43:53.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Lab 1\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Lab 1\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:54:42.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:38:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:38:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Lab 1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Lab 1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:36:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Project.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Portfolio\\Project.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Portfolio\\Project.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Portfolio\\Project.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T07:54:56.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReferenceController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\ReferenceController.cs",
+              "RelativeDocumentMoniker": "Lab 1\\Controllers\\ReferenceController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Controllers\\ReferenceController.cs",
+              "RelativeToolTip": "Lab 1\\Controllers\\ReferenceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:55:44.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T08:20:39.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Lab 1\\Content\\Site.css",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\Lab\\Lab 1\\Lab 1\\Lab 1\\Content\\Site.css",
+              "RelativeToolTip": "Lab 1\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-28T07:39:19.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,13 +1,127 @@
-﻿
-@{
-    ViewBag.Title = "Index";
+﻿@{
+    ViewBag.Title = "Reference";
 }
 
-<h2>Index</h2>
-<section>
-    <a href="/Portfolio/Index">Home</a>
-    <a href="/Portfolio/Project">Project</a>
-    <a href="/Portfolio/Education">Education</a>
-    <a href="/Portfolio/Project">Project</a>
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            background: #f4f7fa;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
 
+        h2 {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 28px;
+            color: #1abc9c;
+        }
+
+        /* Navigation Bar */
+        section:first-of-type {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            background: #1abc9c;
+            padding: 15px 0;
+            border-radius: 0 0 10px 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+            margin-bottom: 50px;
+        }
+
+        section:first-of-type a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            transition: 0.3s ease;
+            font-size: 17px;
+        }
+
+        section:first-of-type a:hover {
+            color: #1abc9c;
+            background: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        /* Reference Card Section */
+        .reference-container {
+            width: 70%;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: 0.3s ease;
+        }
+
+        .reference-container:hover {
+            transform: scale(1.02);
+        }
+
+        .reference-container h3 {
+            color: #16a085;
+            margin-bottom: 10px;
+        }
+
+        .reference-container p {
+            font-size: 18px;
+            color: #555;
+            margin: 5px 0;
+        }
+
+        /* Responsive Design */
+        media (max-width: 768px) {
+            section:first-of-type {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .reference-container {
+                width: 90%;
+                padding: 20px;
+            }
+
+            h2 {
+                font-size: 24px;
+            }
+
+            .reference-container h3 {
+                font-size: 20px;
+            }
+
+            .reference-container p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Reference</h2>
+
+    <section>
+        <a href="/Portfolio/Index">Home</a>
+        <a href="/Portfolio/Project">Project</a>
+        <a href="/Portfolio/Education">Education</a>
+        <a href="/Portfolio/Reference">Reference</a>
+    </section>
+
+    <div class="reference-container">
+        <h3>Farzana Farha</h3>
+        <p>Lecturer, Ideal College</p>
+        <p>Email: farzana.farha@idealcollege.edu.bd</p>
+        <p>Relationship: Academic Mentor</p>
+    </div>
+
+</body>
+</html>

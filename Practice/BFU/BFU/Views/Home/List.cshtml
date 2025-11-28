@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+<form>
+    <input type="text" name="search_box" placeholder="Enter the student name" />
+    <input type="submit" name="search" value="search" />
+</form>
+
+<div>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            
+        </tr>
+        @foreach(var student in ViewBag.Students)
+            {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Email</td>
+                <td>@student.PhoneNumber</td>
+                <td>
+                    <a href="/Home/Details/@student.ID">Details</a>
+                    <a href="/Home/Update/@student.ID">Update</a>
+                    <a href="/Home/Delete/@student.ID">Delete</a>
+                </td>
+            </tr>
+                
+            }
+</table>
+</div>
+

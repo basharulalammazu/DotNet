@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+}
+
+@{ 
+    bool CheckDepartment(string deptName)
+    {
+        if (deptName == Model.Department.Name)
+        {
+            return true;
+        }
+        return false;
+    }
+}
+
+
+<h2>Update</h2>
+<form action="" method="post">
+    <input type="hidden" name="ID" value="@Model.ID" />
+    Name:
+    <input type="text" value="@Model.Name" name="Name" placeholder="Enter your name" />
+    <span>@Html.ValidationMessage("Name")</span>
+    <br />
+    Email:
+    <input type="text" value="@Model.Email" name="Email" placeholder="Enter your email" />
+    <span>@Html.ValidationMessage("Email")</span>
+    <br />
+    Phone Number:
+    <input type="text" name="PhoneNumber" value="@Model.PhoneNumber" placeholder="Enter the Phone Number" />
+    <span>@Html.ValidationMessage("PhoneNumber")</span>
+    <br />
+    Department:
+    <select id="Type" name="DeparmentID">
+        <option value="" disabled selected>Select the Department</option>
+        @foreach (var dept in ViewBag.Departments)
+        {
+            <option value="@dept.ID" selected = @CheckDepartment(dept.Name)>@dept.Name</option>
+        }
+        
+        <input type="submit" name="submit" />
+
+    </select>
+
+</form>
+

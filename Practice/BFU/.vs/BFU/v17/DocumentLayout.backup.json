@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\database\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\database\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|D:\\University\\Semester 9\\.Net\\MID\\BFU\\bfu\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\database\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\database\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\database\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\database\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\database\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\database\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\database\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\database\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|d:\\university\\semester 9\\.net\\mid\\bfu\\bfu\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171FFC86-D83E-42F2-B77E-275694C864C7}|BFU\\BFU.csproj|solutionrelative:bfu\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T15:28:33.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BFU\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "BFU\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwD0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T17:04:21.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Department.cs",
+              "RelativeDocumentMoniker": "BFU\\DataBase\\Department.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Department.cs",
+              "RelativeToolTip": "BFU\\DataBase\\Department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:55:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Model1.cs",
+              "RelativeDocumentMoniker": "BFU\\DataBase\\Model1.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Model1.cs",
+              "RelativeToolTip": "BFU\\DataBase\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:55:52.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\List.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T11:48:05.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T17:08:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T08:55:28.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\Update.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T17:21:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Student.cs",
+              "RelativeDocumentMoniker": "BFU\\DataBase\\Student.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Student.cs",
+              "RelativeToolTip": "BFU\\DataBase\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:55:49.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T17:33:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "BFU\\DataBase\\Model1.Context.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Model1.Context.cs",
+              "RelativeToolTip": "BFU\\DataBase\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:15:33.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\packages.config",
+              "RelativeDocumentMoniker": "BFU\\packages.config",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\packages.config",
+              "RelativeToolTip": "BFU\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-27T12:06:15.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Web.config",
+              "RelativeDocumentMoniker": "BFU\\Web.config",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Web.config",
+              "RelativeToolTip": "BFU\\Web.config",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-27T12:06:17.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Model1.edmx",
+              "RelativeDocumentMoniker": "BFU\\DataBase\\Model1.edmx",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\DataBase\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "BFU\\DataBase\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-27T12:14:26.929Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Global.asax.cs",
+              "RelativeDocumentMoniker": "BFU\\Global.asax.cs",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Global.asax.cs",
+              "RelativeToolTip": "BFU\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:06:14.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BFU\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\.Net\\MID\\BFU\\BFU\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BFU\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T08:52:35.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

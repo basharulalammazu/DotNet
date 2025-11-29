@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+}
+
+
+<h2>Registration</h2>
+<form action="" method="post">
+    Name:
+    <input type="text" name="Name" placeholder="Enter the product name" />
+    <br>
+    Price:
+    <input type="text" name="Price" placeholder="Enter the product price" />
+    <br>
+    Quantity:
+    <input type="text" name="Quantity" placeholder="Enter the product quantity" />
+    <br>
+    <select name="Category_ID">
+        <option value="" selected disabled>Select a category</option>
+        @foreach (var category in ViewBag.Categories)
+        {
+            <option value="@category.ID">@category.Name</option>
+        }
+    </select>
+    <br>
+    <input type="submit" value="Register Product" />
+</form>
+

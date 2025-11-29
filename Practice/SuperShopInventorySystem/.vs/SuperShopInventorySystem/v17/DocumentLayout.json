@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\database\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\database\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|d:\\university\\semester 9\\advanced programming with .net\\mid\\lab\\practice\\supershopinventorysystem\\supershopinventorysystem\\database\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E86FFC8D-9083-46A2-9430-A9DDFD253FB9}|SuperShopInventorySystem\\SuperShopInventorySystem.csproj|solutionrelative:supershopinventorysystem\\database\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "SuperShopInventorySystem\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:50:29.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Views\\Home\\Update.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "SuperShopInventorySystem\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:50:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "SuperShopInventorySystem\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:34:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Views\\Home\\List.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "SuperShopInventorySystem\\Views\\Home\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T16:08:07.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "SuperShopInventorySystem\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T15:53:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Database\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Database\\Model1.Context.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Database\\Model1.Context.cs",
+              "RelativeToolTip": "SuperShopInventorySystem\\Database\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:01:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Database\\Model1.edmx",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Database\\Model1.edmx",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Database\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "SuperShopInventorySystem\\Database\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-29T15:52:21.536Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SuperShopInventorySystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\MID\\Lab\\Practice\\SuperShopInventorySystem\\SuperShopInventorySystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SuperShopInventorySystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAApwEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:59:55.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

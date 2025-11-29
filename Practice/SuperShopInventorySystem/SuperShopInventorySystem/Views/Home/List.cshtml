@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+
+
+
+<span>@TempData["message"]</span>
+<a href="/Home/Registration">Registration</a>
+<h2>List</h2>
+
+<form>
+    <input type ="text" name="search_box" placeholder="Enter the product Name" />
+    <input type="submit" value="Submit" />
+</form>
+
+
+<div>
+    <table>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Category</th>
+        </tr>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Quantity </td>
+                <td>@product.Category.Name</td>
+                <td>
+                    <a href="/Home/Details/@product.ID">Details</a>
+                    <a href="/Home/Update/@product.ID">Update</a>
+                    <a href="/Home/Delete/@product.ID">Delete</a>
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>

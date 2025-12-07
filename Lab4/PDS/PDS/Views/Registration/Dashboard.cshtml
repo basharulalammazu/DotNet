@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Username</th>
+        <th>Email</th>
+        <th>Password</th>
+    </tr>
+    @foreach (var customer in Model)
+    {
+        <tr>
+            <td>@customer.Id</td>
+            <td>@customer.Name</td>
+            <td>@customer.Username</td>
+            <td>@customer.Email</td>
+            <td>@customer.Password</td>
+            <td>
+                <a href="/Registration/Delete/@customer.Id">Delete</a>
+            </td>
+        </tr>
+       }
+</table>
+<a href="/Registration/Index">Index</a>

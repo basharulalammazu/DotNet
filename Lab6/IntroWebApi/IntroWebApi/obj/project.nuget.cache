@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNbGOBl1Rzs=",
+  "success": true,
+  "projectFilePath": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\IntroWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

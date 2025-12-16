@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab6\\introwebapi\\introwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab6\\introwebapi\\introwebapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab6\\introwebapi\\introwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab6\\introwebapi\\introwebapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab6\\introwebapi\\introwebapi\\introwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\introwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab6\\introwebapi\\introwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A13D19BA-1E23-4928-A9B3-D9AF17FDDBF7}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroWebApi\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:55:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "IntroWebApi\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:52:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "IntroWebApi\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:28:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntroWebApi",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\IntroWebApi.csproj",
+              "RelativeDocumentMoniker": "IntroWebApi\\IntroWebApi.csproj",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\IntroWebApi.csproj",
+              "RelativeToolTip": "IntroWebApi\\IntroWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T15:27:41.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:26:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroWebApi\\appsettings.json",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab6\\IntroWebApi\\IntroWebApi\\appsettings.json",
+              "RelativeToolTip": "IntroWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T15:27:15.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

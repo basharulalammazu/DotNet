@@ -1,0 +1,12 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "UMSDB": "Data Source=BASHARULALAMMAZ; Initial Catalog=BFU; TrustServerCertificate=True; Integrated Security=True;"
+  }
+}

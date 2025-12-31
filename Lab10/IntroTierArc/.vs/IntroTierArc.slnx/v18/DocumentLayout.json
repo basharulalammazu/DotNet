@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\applayerapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\dal\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\bll\\dtos\\deparmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F98E9E-ECAD-4113-A9BD-C028C72F5D54}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\deparmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\dal\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264E36F-6236-480B-BAB8-4F3B3B920F8D}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|d:\\university\\semester 9\\advanced programming with .net\\lab\\lab10\\introtierarc\\applayerapi\\applayerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE6DAFD7-AD22-4898-B2C6-05EB9F1679F2}|AppLayerAPI\\AppLayerAPI.csproj|solutionrelative:applayerapi\\applayerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:34:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:15:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AppLayerAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:08:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:29:07.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\Repos\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\DepartmentRepo.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\Repos\\DepartmentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:45:42.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLayerAPI\\appsettings.json",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\appsettings.json",
+              "RelativeToolTip": "AppLayerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T07:50:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\UMSContext.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:38:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayerAPI\\Program.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\Program.cs",
+              "RelativeToolTip": "AppLayerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:42:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:45:21.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:40:59.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeparmentDTO.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\DTOs\\DeparmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\DeparmentDTO.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\BLL\\DTOs\\DeparmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\DeparmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:40:19.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\EF\\Tables\\Department.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Department.cs",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\DAL\\EF\\Tables\\Department.cs",
+              "RelativeToolTip": "DAL\\EF\\Tables\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:36:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppLayerAPI",
+              "DocumentMoniker": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\AppLayerAPI.csproj",
+              "RelativeDocumentMoniker": "AppLayerAPI\\AppLayerAPI.csproj",
+              "ToolTip": "D:\\University\\Semester 9\\ADVANCED PROGRAMMING WITH .NET\\Lab\\Lab10\\IntroTierArc\\AppLayerAPI\\AppLayerAPI.csproj",
+              "RelativeToolTip": "AppLayerAPI\\AppLayerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T07:06:52.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
